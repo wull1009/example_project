@@ -83,7 +83,7 @@ source(here("source", "04_data_visualization.R"))
 plot1
 ```
 
-
+The boxplots show the distribution of log-transformed concentrations across counties, highlighting substantial between-county differences in central tendency and variability.
 
 ```{r, figure2, fig.height = 10}
 plot2

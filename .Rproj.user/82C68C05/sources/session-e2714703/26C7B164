@@ -3,7 +3,7 @@
     "path": "~/Emory/2026_Spring/731/example_project/analysis/final_report.Rmd",
     "project_path": "analysis/final_report.Rmd",
     "type": "r_markdown",
-    "hash": "3170781739",
+    "hash": "3180697042",
     "contents": "",
     "dirty": false,
     "created": 1768493269951.0,
@@ -13,15 +13,15 @@
         "source_window_id": "",
         "Source": "Source",
         "last_setup_crc32": "e271470398171fbc",
-        "cursorPosition": "85,0",
-        "scrollLine": "76"
+        "cursorPosition": "85,174",
+        "scrollLine": "75"
     },
     "folds": "",
-    "lastKnownWriteTime": 1768493806,
+    "lastKnownWriteTime": 1768494541,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1768493806550,
+    "last_content_update": 1768494541328,
     "read_only": false,
     "read_only_alternatives": []
 }
